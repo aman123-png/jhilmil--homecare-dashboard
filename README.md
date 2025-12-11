@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏥 Jhilmil Homecare Dashboard  
 A complete patient and service management dashboard built using **React + Tailwind CSS**, featuring patient registry, service listing, booking system, search & filters, and detailed views — fully aligned with the *Assignment Round Requirements*.
 
@@ -97,3 +98,6 @@ This app uses **LocalStorage** to persist:
 - Bookings  
 
 Utility files:  
+=======
+# jhilmil--homecare-dashboard
+>>>>>>> d68bd909cbec9d4ce19753cfa7cc24ae69bd98a5
